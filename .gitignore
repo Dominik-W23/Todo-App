@@ -1,2 +1,6 @@
 /exercises/
 .idea
+/.idea
+/venv
+/__pycache__
+/exercises
